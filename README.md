@@ -1,4 +1,4 @@
-# Readme - Projet Hadoop
+# Readme - Sequence similarity join 
 
 ## Structure du Répertoire
 
