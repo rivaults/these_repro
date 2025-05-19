@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+  <property>
+    <name>object.class</name>
+    <value>writables.SequenceWritable</value>
+  </property>
+  <property>
+    <name>object.reader.class</name>
+    <value>reader.SequenceLineNumberedInput</value>
+  </property>
+  <property>
+    <name>sequence.alphabet</name>
+    <value>LMIVKREQASTNDFYGCHWP</value>
+  </property>
+  <property>
+    <name>sequence.max.length</name>
+    <value>12000</value>
+  </property>
+  <property>
+    <name>sequence.min.length</name>
+    <value>100</value>
+  </property>
+  <property>
+    <name>compress.snappy</name>
+    <value>true</value>
+  </property>
+</configuration>
+

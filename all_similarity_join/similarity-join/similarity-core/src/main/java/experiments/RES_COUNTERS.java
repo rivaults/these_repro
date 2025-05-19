@@ -1,0 +1,9 @@
+package experiments;
+
+public enum RES_COUNTERS {
+    FALSE_POSITIVE,
+    SKETCH_FILTER,
+    SIZE_FILTER,
+    DISTRIBUTED_FILTERED,
+    SKETCH_DEDUPLICATE
+}

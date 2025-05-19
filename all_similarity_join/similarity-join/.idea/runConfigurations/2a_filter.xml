@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="2a-filter" type="Application" factoryName="Application" show_console_on_std_out="true">
+    <option name="ALTERNATIVE_JRE_PATH" value="11" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <output_file path="$PROJECT_DIR$/../test/experiments/filter.out" is_save="true" />
+    <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+    <option name="MAIN_CLASS_NAME" value="jobs.mrsf.Filter" />
+    <module name="similarity-dist" />
+    <option name="PROGRAM_PARAMETERS" value="-conf &quot;conf.xml&quot; input/ filter/ h-distributed/ 1" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../test/experiments/" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

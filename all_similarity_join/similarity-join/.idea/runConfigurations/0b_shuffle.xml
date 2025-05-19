@@ -1,0 +1,14 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="0b-shuffle" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="11" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+    <option name="MAIN_CLASS_NAME" value="jobs.Shuffle" />
+    <module name="similarity-dist" />
+    <option name="PROGRAM_PARAMETERS" value="-conf &quot;conf_tokenizer.xml&quot; uniq/ input/ 6" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../test/experiments/" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
